@@ -31,7 +31,7 @@ spring:
           use_jdbc_metadata_defaults: false
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://pgiot.cvnwqmyht6r9.rds.cn-north-1.amazonaws.com.cn:5432/iot-device
+    url: jdbc:postgresql://pgiot.cvnwqmyht6r9.rds.cn-north-1.amazonaws.com.cn:5432/iot-device11
     username: pgiot
     password: ENC(iEZ95DHshzBHng0ADOOYXQwBv6pWdgJY)
   banner:
